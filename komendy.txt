@@ -1,0 +1,12 @@
+git init - inicjalizacja repo
+git init NazwaNowegoProjektu - inicjalizacja repo w osob. proj.
+ls -la - listowanie całęj zawartości proj wraz z ukrytymi plikami/folderami
+cat .git/config - zawartość konfiguracji repo
+ls -l - liczba przech. danych w repo
+git status - powie na jakim branchu jesteśmy i czy mamy coś do commitowania, zaprez: 3stany dokumentu w repo: Zatwierdzony, Zmodyfikowany, Śledzony...
+touch nazwapliku.txt - tworzenie nowego pustego pliku
+echo "JAVASCRIPT - Tworzenie CallBack" >> README.md - dodanie do pliku opisu repo
+git add nazwapliku - dodanie do repo pliku (plik jest śledzony)
+git add . - UWAGA kropka oznacza wszystkie zmiany dodaj
+git rm --cached nazwapliku - usuwanie pliku z stage, który został dodany
+git commit -m "tekst commita" - zaznacza zmiany
