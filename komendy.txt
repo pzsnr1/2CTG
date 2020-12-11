@@ -12,3 +12,16 @@ git rm --cached nazwapliku - usuwanie pliku z stage, który został dodany
 git commit -m "tekst commita" - zaznacza zmiany
 git checkout --nazwapliku (które przywraca usunięty plik ale.... przed commitem)
 Tworzenie pliku .gitignore - pliki/katalogi, które nie chcemy wysyłać na zdalne repo.
+
+Klonowanie repo/lokalnie/zdalnie
+cd .. (wyjście z biezacego kat)
+git clone ./2CTG Clone-2CTG (klonuje to co zostało z commitowane)
+git clone link......https/ssh jeśli mam wygen. parę kluczy
+rm -rf Clone-2CTG/ - usuwanie sklonowanego projektu
+
+Dodanie lokalnych zmian do zdalnego repozytorium
+
+
+
+
+
