@@ -4,7 +4,15 @@
 	<title>JavaScript CallBack</title>
 	<meta charset="utf-8">
 	<script type="text/javascript">
-		
+		var imie = function(nazwa){
+			return nazwa;
+		};
+
+		var napis = function(par,callback){
+			return callback(par);
+		};
+
+		document.write(napis("Arkadiusz",imie));
 	</script>
 </head>
 <body>
