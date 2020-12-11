@@ -10,3 +10,5 @@ git add nazwapliku - dodanie do repo pliku (plik jest śledzony)
 git add . - UWAGA kropka oznacza wszystkie zmiany dodaj
 git rm --cached nazwapliku - usuwanie pliku z stage, który został dodany
 git commit -m "tekst commita" - zaznacza zmiany
+git checkout --nazwapliku (które przywraca usunięty plik ale.... przed commitem)
+Tworzenie pliku .gitignore - pliki/katalogi, które nie chcemy wysyłać na zdalne repo.
