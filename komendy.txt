@@ -20,6 +20,18 @@ git clone link......https/ssh jeśli mam wygen. parę kluczy
 rm -rf Clone-2CTG/ - usuwanie sklonowanego projektu
 
 Dodanie lokalnych zmian do zdalnego repozytorium
+git log - listuje wszystkie commity
+git log nazwapliku - listuje wszystkie commity ale dla danego pliku
+git remote add origin https://github.com/pzsnr1/2CTG.git --- uchwyt do zdalnego repo
+git push -u origin master - wypchanie projektu do zdalnego repozytorium
+
+git log --oneline -- info w jednej linii na temat commitów
+git log --graph --decorate plik...
+
+
+
+
+
 
 
 
