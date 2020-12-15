@@ -38,6 +38,13 @@ git checkout new_branch (wniosek: nowy branch zawiera dosłownie te same pliki c
 
 touch zadanie2.html
 
+git checkout -b new_branch (tworzy nową gałąź z bierzącego repo i przełącza się na tą gałąź)
+
+Kopiowanie gałęźi
+
+git branch KOPIA_BRANCH NAZWA_BRANCH
+
+
 
 
 
