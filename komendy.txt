@@ -28,6 +28,17 @@ git push -u origin master - wypchanie projektu do zdalnego repozytorium
 git log --oneline -- info w jednej linii na temat commitów
 git log --graph --decorate plik...
 
+Gałęzie - branche
+
+dodawanie nowego branch:
+git branch new_branch
+
+przełączanie pomiędzy gałęziami
+git checkout new_branch (wniosek: nowy branch zawiera dosłownie te same pliki co branch główny ls -la)
+
+touch zadanie2.html
+
+
 
 
 
