@@ -44,6 +44,27 @@ Kopiowanie gałęźi
 
 git branch KOPIA_BRANCH NAZWA_BRANCH
 
+Wyświetlam ile posiadam branchów
+git branch
+
+Zmiany w repo - > merge i push
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
