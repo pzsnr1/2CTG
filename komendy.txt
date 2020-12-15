@@ -49,6 +49,14 @@ git branch
 
 Zmiany w repo - > merge i push
 
+git merge arkadiusz - łączenie mastera z arkadiusz (z tym że obecnie jestem w branch master)
+
+Usuwanie pliku
+rm nazwa_plik
+git add .
+git commit -m .....
+git push ....
+
 
 
 
